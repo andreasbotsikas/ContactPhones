@@ -5,3 +5,6 @@
 
 ABB έχει ορισμένα Hitachi Airconditions που δεν είναι στον κατάλογο της Hitachi (όπως το RAK 35 RPC): 2102891900
 
+# Toshiba
+
+Θανάσης Τσέλιος, Ψυκτικός από Toshiba 2106744201 6944386000, Klimahom@otenet.gr
