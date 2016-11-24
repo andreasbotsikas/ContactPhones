@@ -11,4 +11,9 @@ ABB έχει ορισμένα Hitachi Airconditions που δεν είναι σ�
 
 # DAIKIN
 
-CLIMANAIR A.E. 2109408424
+ΔΗΜΟΣ ΚΑΣΑΝΔΡΑΣ  CLIMANAIR A.E. 2109408424  2109826540 6936879858 sales@climanair.gr
+
+# General info
+
+The technicians charge based on the size (BTU) of the aircondition. The normal rates include 3 meters pipes (spare parts) 
+Typical rates in 2016 is 60€ for 9k btu and 80€ for 20k btu.
