@@ -16,4 +16,4 @@ ABB έχει ορισμένα Hitachi Airconditions που δεν είναι σ�
 # General info
 
 The technicians charge based on the size (BTU) of the aircondition. The normal rates include 3 meters pipes (spare parts) 
-Typical rates in 2016 is 60€ for 9k btu and 80€ for 20k btu.
+Typical rates (without VAT) in 2016 is 60€ for 9k btu and 80€ for 20k btu.
