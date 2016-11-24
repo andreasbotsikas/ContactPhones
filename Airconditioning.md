@@ -8,3 +8,7 @@ ABB έχει ορισμένα Hitachi Airconditions που δεν είναι σ�
 # Toshiba
 
 Θανάσης Τσέλιος, Ψυκτικός από Toshiba 2106744201 6944386000, Klimahom@otenet.gr
+
+# DAIKIN
+
+CLIMANAIR A.E. 2109408424
